@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite">
+	<test name="Admin User Login">
+		<classes>
+			<class name="com.dish.sling.testflow.AdminLoginTC" />
+		</classes>
+	</test> <!-- Admin User Login -->	
+	
+</suite> <!-- SmokeSuite -->

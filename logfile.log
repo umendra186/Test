@@ -1,0 +1,11 @@
+[INFO] [16:58:11.032] Launching Environment as per pre-condition
+[INFO] [16:58:14.311] Chrome Browser Launched
+[INFO] [16:58:16.314] Envionment Launched
+[INFO] [16:58:16.316] Configuration Launched
+[INFO] [17:00:58.723] Navigated to URL :- http://d-gp2-cmwutil-2.imovetv.com/#/
+[INFO] [17:00:58.737] Preparing for Login with Admin user
+[INFO] [17:00:59.542] Customer Login ID : admin
+[INFO] [17:00:59.759] Customer Password is : password
+[INFO] [17:00:59.922] Submit Button Clicked
+[INFO] [17:00:59.923] User Successfully Logged In 
+[INFO] [17:01:00.295] Closing Browser
